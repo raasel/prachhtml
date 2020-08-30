@@ -1,0 +1,40 @@
+.im1{
+  height:300px;
+  width:250px
+}
+.p2{
+  border:2px solid Tomato
+}
+body{
+  background-image: url("im.jpg");
+}
+h2{
+  padding: 23px;
+  border: 12px solid blue;
+  margin: 21px;
+  width: 222px;
+}
+.amr{
+  outline-style: dotted;
+  width: 300px;
+  border: 15px solid green;
+  padding: 5px;
+  margin: 23px
+}
+h3{
+  border: 1px solid black;
+   outline-style: solid;
+   outline-color: red;
+}
+h1 {
+   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+div {
+  border: 3px solid gray;
+  padding: 8px;
+  text-align: center;
+  border-color: blue;
+}
